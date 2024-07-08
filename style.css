@@ -1,0 +1,32 @@
+body {
+  background-color: khaki;
+}
+.btn {
+  background-color: tomato;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
+.btn:hover {
+  background-color: yellowgreen;
+  color: black;
+}
+
+/* Main Contents */
+.main-content {
+  /* margin: 0 auto; */
+  text-align: center;
+}
+.main-content img {
+  width: 200px;
+}
+
+/* Social Links */
+.social-links {
+  text-align: center;
+}
+.social-links a {
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
